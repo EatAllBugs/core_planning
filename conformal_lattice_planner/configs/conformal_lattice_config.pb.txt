@@ -1,0 +1,22 @@
+update_rate: 10
+wait_time_before_start: 1.0
+path_offset: 1.5
+interp_distance_res: 0.1
+num_paths: 1
+bp_lookahead_base: 5.0
+bp_lookahead_time: 1.0
+goal_distace: 0.1
+stop_speed_threhold: 0.1
+
+path_planning_config {
+ num_points: 50
+}
+
+
+velocity_planning_config {
+  time_gap: 1.0
+  a_lat_max: 1.5
+  slow_speed: 1.0
+  stop_line_buffer: 3.5
+  obstacle_buffer: 1.0
+} 

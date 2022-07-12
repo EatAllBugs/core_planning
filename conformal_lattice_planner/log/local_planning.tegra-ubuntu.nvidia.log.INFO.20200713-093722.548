@@ -1,0 +1,2341 @@
+Log file created at: 2020/07/13 09:37:22
+Running on machine: tegra-ubuntu
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20200713 09:37:22.619215   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:22.719424   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:22.820555   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:22.920532   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.020246   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.120446   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.220526   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.320819   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.420285   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.520411   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.620199   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.720444   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:23.820233   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:23.820291   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:23.820302   548 local_planner.cc:565] time interal: 0.201145
+I20200713 09:37:23.820366   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:23.901693   548 local_planner.cc:611] paths time(msec): 81.151
+I20200713 09:37:23.901738   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:23.901899   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:23.901984   548 local_planner.cc:503] last point velocity:0.92
+I20200713 09:37:23.902034   548 local_planner.cc:646] total plan time(msec): 81.64
+I20200713 09:37:23.920471   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:23.920507   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:23.920516   548 local_planner.cc:565] time interal: 0.100217
+I20200713 09:37:23.920553   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.008802   548 local_planner.cc:611] paths time(msec): 88.221
+I20200713 09:37:24.008864   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.009043   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.009189   548 local_planner.cc:503] last point velocity:0.93
+I20200713 09:37:24.009238   548 local_planner.cc:646] total plan time(msec): 88.674
+I20200713 09:37:24.020886   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.020941   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.020956   548 local_planner.cc:565] time interal: 0.100432
+I20200713 09:37:24.020999   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.098734   548 local_planner.cc:611] paths time(msec): 77.616
+I20200713 09:37:24.098803   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.098978   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.099092   548 local_planner.cc:503] last point velocity:0.93
+I20200713 09:37:24.099134   548 local_planner.cc:646] total plan time(msec): 78.121
+I20200713 09:37:24.120370   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.120421   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.120434   548 local_planner.cc:565] time interal: 0.0994813
+I20200713 09:37:24.120473   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.194945   548 local_planner.cc:611] paths time(msec): 74.364
+I20200713 09:37:24.195006   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.195185   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.195322   548 local_planner.cc:503] last point velocity:0.93
+I20200713 09:37:24.195374   548 local_planner.cc:646] total plan time(msec): 74.888
+I20200713 09:37:24.220453   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.220505   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.220517   548 local_planner.cc:565] time interal: 0.100084
+I20200713 09:37:24.220722   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.294836   548 local_planner.cc:611] paths time(msec): 74.018
+I20200713 09:37:24.294893   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.295064   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.295212   548 local_planner.cc:503] last point velocity:0.94
+I20200713 09:37:24.295262   548 local_planner.cc:646] total plan time(msec): 74.519
+I20200713 09:37:24.320605   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.320688   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.320700   548 local_planner.cc:565] time interal: 0.100183
+I20200713 09:37:24.320753   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.393610   548 local_planner.cc:611] paths time(msec): 72.736
+I20200713 09:37:24.393743   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.393934   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.394076   548 local_planner.cc:503] last point velocity:0.94
+I20200713 09:37:24.394136   548 local_planner.cc:646] total plan time(msec): 73.371
+I20200713 09:37:24.420522   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.420599   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.420611   548 local_planner.cc:565] time interal: 0.0999112
+I20200713 09:37:24.420689   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.495950   548 local_planner.cc:611] paths time(msec): 75.153
+I20200713 09:37:24.496079   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.496263   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.496455   548 local_planner.cc:503] last point velocity:0.94
+I20200713 09:37:24.496507   548 local_planner.cc:646] total plan time(msec): 75.804
+I20200713 09:37:24.520265   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.520313   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.520349   548 local_planner.cc:565] time interal: 0.0997144
+I20200713 09:37:24.520407   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.593474   548 local_planner.cc:611] paths time(msec): 72.954
+I20200713 09:37:24.593545   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.593715   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.593853   548 local_planner.cc:503] last point velocity:0.95
+I20200713 09:37:24.594033   548 local_planner.cc:646] total plan time(msec): 73.611
+I20200713 09:37:24.620401   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.620455   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.620466   548 local_planner.cc:565] time interal: 0.100142
+I20200713 09:37:24.620534   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.692553   548 local_planner.cc:611] paths time(msec): 71.882
+I20200713 09:37:24.692631   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.692852   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.692968   548 local_planner.cc:503] last point velocity:0.95
+I20200713 09:37:24.693011   548 local_planner.cc:646] total plan time(msec): 72.462
+I20200713 09:37:24.720279   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.720332   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.720369   548 local_planner.cc:565] time interal: 0.0998768
+I20200713 09:37:24.720412   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.792493   548 local_planner.cc:611] paths time(msec): 71.965
+I20200713 09:37:24.792570   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.792822   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.793048   548 local_planner.cc:503] last point velocity:0.95
+I20200713 09:37:24.793100   548 local_planner.cc:646] total plan time(msec): 72.678
+I20200713 09:37:24.820242   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.820294   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.820343   548 local_planner.cc:565] time interal: 0.0999624
+I20200713 09:37:24.820389   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.890879   548 local_planner.cc:611] paths time(msec): 70.463
+I20200713 09:37:24.890954   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.891113   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.891230   548 local_planner.cc:503] last point velocity:0.95
+I20200713 09:37:24.891307   548 local_planner.cc:646] total plan time(msec): 70.908
+I20200713 09:37:24.920282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:24.920337   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:24.920374   548 local_planner.cc:565] time interal: 0.100043
+I20200713 09:37:24.920420   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:24.991731   548 local_planner.cc:611] paths time(msec): 71.207
+I20200713 09:37:24.991806   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:24.991999   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:24.992151   548 local_planner.cc:503] last point velocity:0.96
+I20200713 09:37:24.992203   548 local_planner.cc:646] total plan time(msec): 71.772
+I20200713 09:37:25.020376   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.020427   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.020440   548 local_planner.cc:565] time interal: 0.100091
+I20200713 09:37:25.020524   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.095010   548 local_planner.cc:611] paths time(msec): 74.392
+I20200713 09:37:25.095082   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.095252   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.095404   548 local_planner.cc:503] last point velocity:0.96
+I20200713 09:37:25.095455   548 local_planner.cc:646] total plan time(msec): 74.92
+I20200713 09:37:25.120251   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.120303   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.120313   548 local_planner.cc:565] time interal: 0.099876
+I20200713 09:37:25.120393   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.194625   548 local_planner.cc:611] paths time(msec): 74.124
+I20200713 09:37:25.194700   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.194880   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.195004   548 local_planner.cc:503] last point velocity:0.96
+I20200713 09:37:25.195052   548 local_planner.cc:646] total plan time(msec): 74.647
+I20200713 09:37:25.220364   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.220420   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.220429   548 local_planner.cc:565] time interal: 0.100117
+I20200713 09:37:25.220475   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.290012   548 local_planner.cc:611] paths time(msec): 69.425
+I20200713 09:37:25.290138   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.290323   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.290439   548 local_planner.cc:503] last point velocity:0.96
+I20200713 09:37:25.290483   548 local_planner.cc:646] total plan time(msec): 69.997
+I20200713 09:37:25.320775   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.320829   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.320940   548 local_planner.cc:565] time interal: 0.100408
+I20200713 09:37:25.320987   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.394338   548 local_planner.cc:611] paths time(msec): 73.261
+I20200713 09:37:25.394412   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.394569   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.394707   548 local_planner.cc:503] last point velocity:0.98
+I20200713 09:37:25.394759   548 local_planner.cc:646] total plan time(msec): 73.761
+I20200713 09:37:25.420814   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.420917   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.420928   548 local_planner.cc:565] time interal: 0.100087
+I20200713 09:37:25.420977   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.492218   548 local_planner.cc:611] paths time(msec): 71.144
+I20200713 09:37:25.492292   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.492457   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.492678   548 local_planner.cc:503] last point velocity:0.98
+I20200713 09:37:25.492731   548 local_planner.cc:646] total plan time(msec): 71.743
+I20200713 09:37:25.520692   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.520763   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.520804   548 local_planner.cc:565] time interal: 0.0998469
+I20200713 09:37:25.520864   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.589668   548 local_planner.cc:611] paths time(msec): 68.621
+I20200713 09:37:25.589747   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.589944   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.590133   548 local_planner.cc:503] last point velocity:0.98
+I20200713 09:37:25.590183   548 local_planner.cc:646] total plan time(msec): 69.228
+I20200713 09:37:25.620501   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.620558   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.620570   548 local_planner.cc:565] time interal: 0.0997948
+I20200713 09:37:25.620611   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.689344   548 local_planner.cc:611] paths time(msec): 68.64
+I20200713 09:37:25.689414   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.689608   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.689860   548 local_planner.cc:503] last point velocity:0.98
+I20200713 09:37:25.689909   548 local_planner.cc:646] total plan time(msec): 69.286
+I20200713 09:37:25.720331   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.720384   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.720396   548 local_planner.cc:565] time interal: 0.0998261
+I20200713 09:37:25.720433   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.789700   548 local_planner.cc:611] paths time(msec): 69.154
+I20200713 09:37:25.789803   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.789985   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.790180   548 local_planner.cc:503] last point velocity:0.99
+I20200713 09:37:25.790231   548 local_planner.cc:646] total plan time(msec): 69.785
+I20200713 09:37:25.820344   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.820402   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.820413   548 local_planner.cc:565] time interal: 0.100018
+I20200713 09:37:25.820456   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.886574   548 local_planner.cc:611] paths time(msec): 66.002
+I20200713 09:37:25.886663   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.886894   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.887271   548 local_planner.cc:503] last point velocity:0.99
+I20200713 09:37:25.887336   548 local_planner.cc:646] total plan time(msec): 66.868
+I20200713 09:37:25.920625   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:25.920680   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:25.920693   548 local_planner.cc:565] time interal: 0.100277
+I20200713 09:37:25.920740   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:25.995854   548 local_planner.cc:611] paths time(msec): 75.021
+I20200713 09:37:25.995944   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:25.996152   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:25.996364   548 local_planner.cc:503] last point velocity:0.99
+I20200713 09:37:25.996420   548 local_planner.cc:646] total plan time(msec): 75.665
+I20200713 09:37:26.020390   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.020443   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.020455   548 local_planner.cc:565] time interal: 0.0997628
+I20200713 09:37:26.020500   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.093974   548 local_planner.cc:611] paths time(msec): 73.355
+I20200713 09:37:26.094051   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.094238   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.094456   548 local_planner.cc:503] last point velocity:0.99
+I20200713 09:37:26.094504   548 local_planner.cc:646] total plan time(msec): 73.991
+I20200713 09:37:26.120642   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.120697   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.120708   548 local_planner.cc:565] time interal: 0.100254
+I20200713 09:37:26.120750   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.191366   548 local_planner.cc:611] paths time(msec): 70.51
+I20200713 09:37:26.191426   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.191615   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.191787   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.191834   548 local_planner.cc:646] total plan time(msec): 71.071
+I20200713 09:37:26.220526   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.220585   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.220595   548 local_planner.cc:565] time interal: 0.0998891
+I20200713 09:37:26.220643   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.298842   548 local_planner.cc:611] paths time(msec): 78.088
+I20200713 09:37:26.298924   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.299111   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.299325   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.299379   548 local_planner.cc:646] total plan time(msec): 78.727
+I20200713 09:37:26.320304   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.320363   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.320405   548 local_planner.cc:565] time interal: 0.0997774
+I20200713 09:37:26.320454   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.393839   548 local_planner.cc:611] paths time(msec): 73.313
+I20200713 09:37:26.393915   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.394074   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.394285   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.394336   548 local_planner.cc:646] total plan time(msec): 73.871
+I20200713 09:37:26.420570   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.420630   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.420744   548 local_planner.cc:565] time interal: 0.100267
+I20200713 09:37:26.420797   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.496099   548 local_planner.cc:611] paths time(msec): 75.146
+I20200713 09:37:26.496184   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.496346   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.496520   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.496568   548 local_planner.cc:646] total plan time(msec): 75.759
+I20200713 09:37:26.520361   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.520411   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.520423   548 local_planner.cc:565] time interal: 0.0997813
+I20200713 09:37:26.520468   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.590890   548 local_planner.cc:611] paths time(msec): 70.303
+I20200713 09:37:26.590971   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.591162   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.591280   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.591328   548 local_planner.cc:646] total plan time(msec): 70.848
+I20200713 09:37:26.620334   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.620383   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.620393   548 local_planner.cc:565] time interal: 0.0999707
+I20200713 09:37:26.620435   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.689826   548 local_planner.cc:611] paths time(msec): 69.283
+I20200713 09:37:26.689896   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.690093   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.690212   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.690256   548 local_planner.cc:646] total plan time(msec): 69.809
+I20200713 09:37:26.720405   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.720455   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.720465   548 local_planner.cc:565] time interal: 0.100073
+I20200713 09:37:26.720508   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.788763   548 local_planner.cc:611] paths time(msec): 68.142
+I20200713 09:37:26.788841   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.789027   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.789146   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.789194   548 local_planner.cc:646] total plan time(msec): 68.673
+I20200713 09:37:26.820430   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.820488   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.820498   548 local_planner.cc:565] time interal: 0.100034
+I20200713 09:37:26.820567   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:26.897629   548 local_planner.cc:611] paths time(msec): 76.872
+I20200713 09:37:26.897768   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:26.897969   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:26.898093   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:26.898141   548 local_planner.cc:646] total plan time(msec): 77.561
+I20200713 09:37:26.920374   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:26.920433   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:26.920475   548 local_planner.cc:565] time interal: 0.0999435
+I20200713 09:37:26.920523   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.001633   548 local_planner.cc:611] paths time(msec): 80.991
+I20200713 09:37:27.001730   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.001935   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.002163   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.002216   548 local_planner.cc:646] total plan time(msec): 81.681
+I20200713 09:37:27.020350   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.020403   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.020413   548 local_planner.cc:565] time interal: 0.0999716
+I20200713 09:37:27.020457   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.094902   548 local_planner.cc:611] paths time(msec): 74.414
+I20200713 09:37:27.094988   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.095170   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.095286   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.095331   548 local_planner.cc:646] total plan time(msec): 74.864
+I20200713 09:37:27.120393   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.120445   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.120462   548 local_planner.cc:565] time interal: 0.100042
+I20200713 09:37:27.120509   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.190606   548 local_planner.cc:611] paths time(msec): 70.015
+I20200713 09:37:27.190675   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.190851   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.190974   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.191028   548 local_planner.cc:646] total plan time(msec): 70.506
+I20200713 09:37:27.220443   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.220500   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.220536   548 local_planner.cc:565] time interal: 0.100055
+I20200713 09:37:27.220584   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.289624   548 local_planner.cc:611] paths time(msec): 68.933
+I20200713 09:37:27.289698   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.289885   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.290020   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.290072   548 local_planner.cc:646] total plan time(msec): 69.476
+I20200713 09:37:27.320570   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.320631   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.320645   548 local_planner.cc:565] time interal: 0.100131
+I20200713 09:37:27.320698   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.395856   548 local_planner.cc:611] paths time(msec): 75.069
+I20200713 09:37:27.395933   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.396163   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.396345   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.396528   548 local_planner.cc:646] total plan time(msec): 75.814
+I20200713 09:37:27.420398   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.420452   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.420462   548 local_planner.cc:565] time interal: 0.0998213
+I20200713 09:37:27.420509   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.494479   548 local_planner.cc:611] paths time(msec): 73.914
+I20200713 09:37:27.494544   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.494709   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.494853   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.494901   548 local_planner.cc:646] total plan time(msec): 74.381
+I20200713 09:37:27.520417   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.520473   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.520483   548 local_planner.cc:565] time interal: 0.10002
+I20200713 09:37:27.520638   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.591293   548 local_planner.cc:611] paths time(msec): 70.614
+I20200713 09:37:27.591369   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.591565   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.591681   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.591724   548 local_planner.cc:646] total plan time(msec): 71.069
+I20200713 09:37:27.620394   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.620448   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.620460   548 local_planner.cc:565] time interal: 0.0999765
+I20200713 09:37:27.620507   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.695889   548 local_planner.cc:611] paths time(msec): 75.27
+I20200713 09:37:27.696002   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.696182   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.696319   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.696362   548 local_planner.cc:646] total plan time(msec): 75.844
+I20200713 09:37:27.720506   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.720561   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.720569   548 local_planner.cc:565] time interal: 0.100112
+I20200713 09:37:27.720615   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.795755   548 local_planner.cc:611] paths time(msec): 75.113
+I20200713 09:37:27.795830   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.795969   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.796211   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.796404   548 local_planner.cc:646] total plan time(msec): 75.775
+I20200713 09:37:27.820361   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.820413   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.820423   548 local_planner.cc:565] time interal: 0.0998529
+I20200713 09:37:27.820473   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.897162   548 local_planner.cc:611] paths time(msec): 76.582
+I20200713 09:37:27.897234   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.897387   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.897518   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.897585   548 local_planner.cc:646] total plan time(msec): 77.1
+I20200713 09:37:27.920471   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:27.920526   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:27.920536   548 local_planner.cc:565] time interal: 0.100112
+I20200713 09:37:27.920579   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:27.994613   548 local_planner.cc:611] paths time(msec): 74
+I20200713 09:37:27.994676   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:27.994818   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:27.994967   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:27.995014   548 local_planner.cc:646] total plan time(msec): 74.424
+I20200713 09:37:28.020419   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.020478   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.020489   548 local_planner.cc:565] time interal: 0.09995
+I20200713 09:37:28.020539   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.100508   548 local_planner.cc:611] paths time(msec): 79.849
+I20200713 09:37:28.100589   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.100785   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.101006   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.101063   548 local_planner.cc:646] total plan time(msec): 80.51
+I20200713 09:37:28.120261   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.120314   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.120350   548 local_planner.cc:565] time interal: 0.099839
+I20200713 09:37:28.120398   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.199023   548 local_planner.cc:611] paths time(msec): 78.52
+I20200713 09:37:28.199091   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.199280   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.199393   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.199436   548 local_planner.cc:646] total plan time(msec): 79.027
+I20200713 09:37:28.220417   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.220474   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.220484   548 local_planner.cc:565] time interal: 0.100158
+I20200713 09:37:28.220531   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.296344   548 local_planner.cc:611] paths time(msec): 75.765
+I20200713 09:37:28.296414   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.296568   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.297375   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.297443   548 local_planner.cc:646] total plan time(msec): 76.898
+I20200713 09:37:28.320277   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.320327   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.320369   548 local_planner.cc:565] time interal: 0.0998535
+I20200713 09:37:28.320413   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.398717   548 local_planner.cc:611] paths time(msec): 78.192
+I20200713 09:37:28.398793   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.398954   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.399070   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.399142   548 local_planner.cc:646] total plan time(msec): 78.716
+I20200713 09:37:28.420439   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.420495   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.420506   548 local_planner.cc:565] time interal: 0.100169
+I20200713 09:37:28.420554   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.494982   548 local_planner.cc:611] paths time(msec): 74.303
+I20200713 09:37:28.495071   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.495318   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.495442   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.495491   548 local_planner.cc:646] total plan time(msec): 74.924
+I20200713 09:37:28.520288   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.520342   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.520376   548 local_planner.cc:565] time interal: 0.0998472
+I20200713 09:37:28.520418   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.600315   548 local_planner.cc:611] paths time(msec): 79.775
+I20200713 09:37:28.600390   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.600586   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.600730   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.600790   548 local_planner.cc:646] total plan time(msec): 80.36
+I20200713 09:37:28.620359   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.620411   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.620420   548 local_planner.cc:565] time interal: 0.100069
+I20200713 09:37:28.620565   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.695871   548 local_planner.cc:611] paths time(msec): 75.202
+I20200713 09:37:28.695947   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.696367   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.696508   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.696568   548 local_planner.cc:646] total plan time(msec): 75.988
+I20200713 09:37:28.720295   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.720352   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.720386   548 local_planner.cc:565] time interal: 0.0999404
+I20200713 09:37:28.720432   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.794566   548 local_planner.cc:611] paths time(msec): 74.107
+I20200713 09:37:28.794636   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.794826   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.794936   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.795001   548 local_planner.cc:646] total plan time(msec): 74.556
+I20200713 09:37:28.820685   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.820734   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.820744   548 local_planner.cc:565] time interal: 0.100381
+I20200713 09:37:28.820789   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:28.894608   548 local_planner.cc:611] paths time(msec): 73.744
+I20200713 09:37:28.894687   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:28.894865   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:28.895001   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:28.895046   548 local_planner.cc:646] total plan time(msec): 74.246
+I20200713 09:37:28.920395   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:28.920450   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:28.920462   548 local_planner.cc:565] time interal: 0.0997168
+I20200713 09:37:28.920507   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.007550   548 local_planner.cc:611] paths time(msec): 86.919
+I20200713 09:37:29.007622   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.007839   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.007977   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.008124   548 local_planner.cc:646] total plan time(msec): 87.603
+I20200713 09:37:29.020200   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:29.121130   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.121280   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.121328   548 local_planner.cc:565] time interal: 0.200768
+I20200713 09:37:29.121446   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.199628   548 local_planner.cc:611] paths time(msec): 78.053
+I20200713 09:37:29.199705   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.199921   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.200086   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.200162   548 local_planner.cc:646] total plan time(msec): 78.692
+I20200713 09:37:29.220759   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:29.320570   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.320684   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.320700   548 local_planner.cc:565] time interal: 0.199464
+I20200713 09:37:29.320755   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.403726   548 local_planner.cc:611] paths time(msec): 82.926
+I20200713 09:37:29.403831   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.404233   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.404361   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.404448   548 local_planner.cc:646] total plan time(msec): 83.678
+I20200713 09:37:29.420336   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.420392   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.420403   548 local_planner.cc:565] time interal: 0.0997091
+I20200713 09:37:29.420444   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.494128   548 local_planner.cc:611] paths time(msec): 73.576
+I20200713 09:37:29.494230   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.494405   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.494520   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.494578   548 local_planner.cc:646] total plan time(msec): 74.122
+I20200713 09:37:29.520341   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.520437   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.520452   548 local_planner.cc:565] time interal: 0.100009
+I20200713 09:37:29.520495   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.596578   548 local_planner.cc:611] paths time(msec): 75.965
+I20200713 09:37:29.596662   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.596892   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.597012   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.597057   548 local_planner.cc:646] total plan time(msec): 76.548
+I20200713 09:37:29.620286   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.620347   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.620398   548 local_planner.cc:565] time interal: 0.0999461
+I20200713 09:37:29.620443   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.696789   548 local_planner.cc:611] paths time(msec): 76.127
+I20200713 09:37:29.696873   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.697095   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.697211   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.697281   548 local_planner.cc:646] total plan time(msec): 76.825
+I20200713 09:37:29.720312   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.720371   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.720407   548 local_planner.cc:565] time interal: 0.100024
+I20200713 09:37:29.720448   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.795797   548 local_planner.cc:611] paths time(msec): 75.241
+I20200713 09:37:29.795871   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.796111   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.796226   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.796296   548 local_planner.cc:646] total plan time(msec): 75.834
+I20200713 09:37:29.820374   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.820433   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.820442   548 local_planner.cc:565] time interal: 0.100062
+I20200713 09:37:29.820488   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:29.899807   548 local_planner.cc:611] paths time(msec): 79.254
+I20200713 09:37:29.899886   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:29.900168   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:29.900290   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:29.900357   548 local_planner.cc:646] total plan time(msec): 79.857
+I20200713 09:37:29.920544   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:29.920734   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:29.920748   548 local_planner.cc:565] time interal: 0.1003
+I20200713 09:37:29.920801   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.001610   548 local_planner.cc:611] paths time(msec): 80.766
+I20200713 09:37:30.001686   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.001895   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.002015   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.002092   548 local_planner.cc:646] total plan time(msec): 81.278
+I20200713 09:37:30.020370   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.020424   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.020435   548 local_planner.cc:565] time interal: 0.0996924
+I20200713 09:37:30.020476   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.093518   548 local_planner.cc:611] paths time(msec): 72.918
+I20200713 09:37:30.093609   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.093816   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.093927   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.093998   548 local_planner.cc:646] total plan time(msec): 73.509
+I20200713 09:37:30.120483   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:30.220707   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.220777   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.220836   548 local_planner.cc:565] time interal: 0.200352
+I20200713 09:37:30.220918   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.299432   548 local_planner.cc:611] paths time(msec): 78.39
+I20200713 09:37:30.299551   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.299729   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.299885   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.299932   548 local_planner.cc:646] total plan time(msec): 78.997
+I20200713 09:37:30.320273   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:30.420367   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.420428   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.420469   548 local_planner.cc:565] time interal: 0.199651
+I20200713 09:37:30.420521   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.498630   548 local_planner.cc:611] paths time(msec): 78.062
+I20200713 09:37:30.498710   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.498915   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.499467   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.499539   548 local_planner.cc:646] total plan time(msec): 79.006
+I20200713 09:37:30.520301   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.520359   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.520395   548 local_planner.cc:565] time interal: 0.0999311
+I20200713 09:37:30.520442   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.594041   548 local_planner.cc:611] paths time(msec): 73.452
+I20200713 09:37:30.594120   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.594357   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.594472   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.594516   548 local_planner.cc:646] total plan time(msec): 74.06
+I20200713 09:37:30.620299   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.620353   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.620390   548 local_planner.cc:565] time interal: 0.0999955
+I20200713 09:37:30.620434   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.690090   548 local_planner.cc:611] paths time(msec): 69.45
+I20200713 09:37:30.690181   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.690393   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.690512   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.690572   548 local_planner.cc:646] total plan time(msec): 70.036
+I20200713 09:37:30.720319   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:30.820279   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.820338   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.820374   548 local_planner.cc:565] time interal: 0.199984
+I20200713 09:37:30.820420   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.896507   548 local_planner.cc:611] paths time(msec): 76.006
+I20200713 09:37:30.896587   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.896780   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.896894   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.896968   548 local_planner.cc:646] total plan time(msec): 76.536
+I20200713 09:37:30.920336   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:30.920393   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:30.920404   548 local_planner.cc:565] time interal: 0.100056
+I20200713 09:37:30.920447   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:30.993839   548 local_planner.cc:611] paths time(msec): 73.301
+I20200713 09:37:30.993952   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:30.994127   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:30.994236   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:30.994318   548 local_planner.cc:646] total plan time(msec): 73.856
+I20200713 09:37:31.020303   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.020359   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.020395   548 local_planner.cc:565] time interal: 0.0999666
+I20200713 09:37:31.020442   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.094215   548 local_planner.cc:611] paths time(msec): 73.639
+I20200713 09:37:31.094291   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.094511   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.094619   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.094669   548 local_planner.cc:646] total plan time(msec): 74.216
+I20200713 09:37:31.120285   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.120342   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.120378   548 local_planner.cc:565] time interal: 0.0999821
+I20200713 09:37:31.120421   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.196399   548 local_planner.cc:611] paths time(msec): 75.861
+I20200713 09:37:31.196491   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.196689   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.196806   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.196866   548 local_planner.cc:646] total plan time(msec): 76.431
+I20200713 09:37:31.220278   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:31.320303   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.320363   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.320374   548 local_planner.cc:565] time interal: 0.200022
+I20200713 09:37:31.320422   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.397297   548 local_planner.cc:611] paths time(msec): 76.765
+I20200713 09:37:31.398471   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.398664   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.398895   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.398963   548 local_planner.cc:646] total plan time(msec): 78.529
+I20200713 09:37:31.420228   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:31.520412   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.520473   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.520485   548 local_planner.cc:565] time interal: 0.200108
+I20200713 09:37:31.520534   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.592866   548 local_planner.cc:611] paths time(msec): 72.22
+I20200713 09:37:31.592944   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.593137   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.593250   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.593307   548 local_planner.cc:646] total plan time(msec): 72.76
+I20200713 09:37:31.620483   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:31.720211   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.720269   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.720279   548 local_planner.cc:565] time interal: 0.199796
+I20200713 09:37:31.720350   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.793370   548 local_planner.cc:611] paths time(msec): 72.926
+I20200713 09:37:31.793445   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.793686   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.793802   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.793849   548 local_planner.cc:646] total plan time(msec): 73.486
+I20200713 09:37:31.820297   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:31.920251   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:31.920307   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:31.920317   548 local_planner.cc:565] time interal: 0.200039
+I20200713 09:37:31.920392   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:31.994652   548 local_planner.cc:611] paths time(msec): 74.214
+I20200713 09:37:31.994729   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:31.994949   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:31.995069   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:31.995425   548 local_planner.cc:646] total plan time(msec): 75.02
+I20200713 09:37:32.020274   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.020328   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.020337   548 local_planner.cc:565] time interal: 0.10002
+I20200713 09:37:32.020416   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.091279   548 local_planner.cc:611] paths time(msec): 70.786
+I20200713 09:37:32.091356   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.091544   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.091679   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.091745   548 local_planner.cc:646] total plan time(msec): 71.317
+I20200713 09:37:32.120282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.120337   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.120347   548 local_planner.cc:565] time interal: 0.100011
+I20200713 09:37:32.120422   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.192968   548 local_planner.cc:611] paths time(msec): 72.431
+I20200713 09:37:32.193056   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.193266   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.193405   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.193581   548 local_planner.cc:646] total plan time(msec): 73.146
+I20200713 09:37:32.220255   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.220312   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.220322   548 local_planner.cc:565] time interal: 0.0999743
+I20200713 09:37:32.220399   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.294306   548 local_planner.cc:611] paths time(msec): 73.799
+I20200713 09:37:32.294409   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.294579   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.294716   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.294772   548 local_planner.cc:646] total plan time(msec): 74.361
+I20200713 09:37:32.320432   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.320513   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.320550   548 local_planner.cc:565] time interal: 0.100201
+I20200713 09:37:32.320610   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.397199   548 local_planner.cc:611] paths time(msec): 76.482
+I20200713 09:37:32.397282   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.397475   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.398198   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.398272   548 local_planner.cc:646] total plan time(msec): 77.65
+I20200713 09:37:32.420461   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.420536   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.420567   548 local_planner.cc:565] time interal: 0.100022
+I20200713 09:37:32.420665   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.495856   548 local_planner.cc:611] paths time(msec): 75.095
+I20200713 09:37:32.495934   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.496176   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.496315   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.496371   548 local_planner.cc:646] total plan time(msec): 75.693
+I20200713 09:37:32.520313   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.520371   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.520382   548 local_planner.cc:565] time interal: 0.0998364
+I20200713 09:37:32.520458   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.595208   548 local_planner.cc:611] paths time(msec): 74.634
+I20200713 09:37:32.595348   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.595546   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.595664   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.595715   548 local_planner.cc:646] total plan time(msec): 75.243
+I20200713 09:37:32.620419   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.620476   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.620493   548 local_planner.cc:565] time interal: 0.100105
+I20200713 09:37:32.620541   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.696660   548 local_planner.cc:611] paths time(msec): 76.046
+I20200713 09:37:32.696739   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.696938   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.697052   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.697100   548 local_planner.cc:646] total plan time(msec): 76.547
+I20200713 09:37:32.720324   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.720399   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.720410   548 local_planner.cc:565] time interal: 0.0999223
+I20200713 09:37:32.720497   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.791712   548 local_planner.cc:611] paths time(msec): 70.995
+I20200713 09:37:32.791792   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.791993   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.792160   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.792234   548 local_planner.cc:646] total plan time(msec): 71.592
+I20200713 09:37:32.820264   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:32.820319   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:32.820329   548 local_planner.cc:565] time interal: 0.0999208
+I20200713 09:37:32.820403   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:32.891650   548 local_planner.cc:611] paths time(msec): 71.137
+I20200713 09:37:32.891768   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:32.891949   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:32.892140   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:32.892196   548 local_planner.cc:646] total plan time(msec): 71.781
+I20200713 09:37:32.920377   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:33.020385   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.020445   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.020457   548 local_planner.cc:565] time interal: 0.200126
+I20200713 09:37:33.020527   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.095449   548 local_planner.cc:611] paths time(msec): 74.731
+I20200713 09:37:33.095530   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.095739   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.095852   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.095903   548 local_planner.cc:646] total plan time(msec): 75.362
+I20200713 09:37:33.120426   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.120483   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.120496   548 local_planner.cc:565] time interal: 0.100038
+I20200713 09:37:33.120569   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.191846   548 local_planner.cc:611] paths time(msec): 71.162
+I20200713 09:37:33.191923   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.192184   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.192302   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.192358   548 local_planner.cc:646] total plan time(msec): 71.777
+I20200713 09:37:33.220336   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.220392   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.220402   548 local_planner.cc:565] time interal: 0.0999083
+I20200713 09:37:33.220484   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.291456   548 local_planner.cc:611] paths time(msec): 70.919
+I20200713 09:37:33.291541   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.291756   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.291891   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.291942   548 local_planner.cc:646] total plan time(msec): 71.446
+I20200713 09:37:33.320344   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.320410   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.320420   548 local_planner.cc:565] time interal: 0.100017
+I20200713 09:37:33.320474   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.391402   548 local_planner.cc:611] paths time(msec): 70.817
+I20200713 09:37:33.391481   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.391686   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.391901   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.391958   548 local_planner.cc:646] total plan time(msec): 71.472
+I20200713 09:37:33.420317   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.420378   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.420388   548 local_planner.cc:565] time interal: 0.0999692
+I20200713 09:37:33.420465   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.492458   548 local_planner.cc:611] paths time(msec): 71.879
+I20200713 09:37:33.492538   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.492759   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.492895   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.492945   548 local_planner.cc:646] total plan time(msec): 72.467
+I20200713 09:37:33.520331   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.520395   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.520403   548 local_planner.cc:565] time interal: 0.100017
+I20200713 09:37:33.520495   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.588372   548 local_planner.cc:611] paths time(msec): 67.796
+I20200713 09:37:33.588449   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.588651   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.588769   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.588820   548 local_planner.cc:646] total plan time(msec): 68.313
+I20200713 09:37:33.620263   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.620319   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.620329   548 local_planner.cc:565] time interal: 0.099925
+I20200713 09:37:33.620404   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.688762   548 local_planner.cc:611] paths time(msec): 68.14
+I20200713 09:37:33.688843   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.689055   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.689169   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.689218   548 local_planner.cc:646] total plan time(msec): 68.801
+I20200713 09:37:33.720284   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.720342   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.720352   548 local_planner.cc:565] time interal: 0.100023
+I20200713 09:37:33.720429   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.789983   548 local_planner.cc:611] paths time(msec): 69.441
+I20200713 09:37:33.790098   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.790408   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.790549   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.790603   548 local_planner.cc:646] total plan time(msec): 70.163
+I20200713 09:37:33.820312   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.820370   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.820380   548 local_planner.cc:565] time interal: 0.100028
+I20200713 09:37:33.820456   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.890808   548 local_planner.cc:611] paths time(msec): 70.237
+I20200713 09:37:33.890895   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.891121   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.891244   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.891295   548 local_planner.cc:646] total plan time(msec): 70.825
+I20200713 09:37:33.920325   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:33.920382   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:33.920390   548 local_planner.cc:565] time interal: 0.100011
+I20200713 09:37:33.920579   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:33.989341   548 local_planner.cc:611] paths time(msec): 68.65
+I20200713 09:37:33.989444   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:33.989651   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:33.989765   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:33.989995   548 local_planner.cc:646] total plan time(msec): 69.398
+I20200713 09:37:34.020294   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.020349   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.020360   548 local_planner.cc:565] time interal: 0.0999684
+I20200713 09:37:34.020437   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.089706   548 local_planner.cc:611] paths time(msec): 69.154
+I20200713 09:37:34.089824   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.089993   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.090131   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.090214   548 local_planner.cc:646] total plan time(msec): 69.763
+I20200713 09:37:34.120247   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.120306   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.120316   548 local_planner.cc:565] time interal: 0.0999564
+I20200713 09:37:34.120393   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.186743   548 local_planner.cc:611] paths time(msec): 66.247
+I20200713 09:37:34.186818   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.187028   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.187152   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.187211   548 local_planner.cc:646] total plan time(msec): 66.8
+I20200713 09:37:34.220259   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.220314   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.220324   548 local_planner.cc:565] time interal: 0.100008
+I20200713 09:37:34.220399   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.288790   548 local_planner.cc:611] paths time(msec): 68.295
+I20200713 09:37:34.288861   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.289065   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.289183   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.289243   548 local_planner.cc:646] total plan time(msec): 68.831
+I20200713 09:37:34.320299   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:34.420238   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.420295   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.420305   548 local_planner.cc:565] time interal: 0.19998
+I20200713 09:37:34.420380   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.489504   548 local_planner.cc:611] paths time(msec): 69.077
+I20200713 09:37:34.489580   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.489790   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.489904   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.489959   548 local_planner.cc:646] total plan time(msec): 69.566
+I20200713 09:37:34.520267   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.520323   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.520331   548 local_planner.cc:565] time interal: 0.100028
+I20200713 09:37:34.520408   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.586663   548 local_planner.cc:611] paths time(msec): 66.143
+I20200713 09:37:34.586787   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.586973   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.587224   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.587281   548 local_planner.cc:646] total plan time(msec): 66.861
+I20200713 09:37:34.620247   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.620304   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.620313   548 local_planner.cc:565] time interal: 0.0999817
+I20200713 09:37:34.620386   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.687920   548 local_planner.cc:611] paths time(msec): 67.408
+I20200713 09:37:34.688009   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.688223   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.688362   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.688419   548 local_planner.cc:646] total plan time(msec): 68.021
+I20200713 09:37:34.720300   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.720363   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.720402   548 local_planner.cc:565] time interal: 0.100059
+I20200713 09:37:34.720458   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.787328   548 local_planner.cc:611] paths time(msec): 66.767
+I20200713 09:37:34.787405   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.787637   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.787751   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.787811   548 local_planner.cc:646] total plan time(msec): 67.34
+I20200713 09:37:34.820397   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.820456   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.820466   548 local_planner.cc:565] time interal: 0.100093
+I20200713 09:37:34.820542   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.888293   548 local_planner.cc:611] paths time(msec): 67.714
+I20200713 09:37:34.888370   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.888587   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.888725   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.888782   548 local_planner.cc:646] total plan time(msec): 68.227
+I20200713 09:37:34.920269   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:34.920325   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:34.920336   548 local_planner.cc:565] time interal: 0.0998683
+I20200713 09:37:34.920408   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:34.986781   548 local_planner.cc:611] paths time(msec): 66.254
+I20200713 09:37:34.986858   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:34.987053   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:34.987183   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:34.987241   548 local_planner.cc:646] total plan time(msec): 66.819
+I20200713 09:37:35.020259   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.020315   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.020325   548 local_planner.cc:565] time interal: 0.0999899
+I20200713 09:37:35.020398   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.090634   548 local_planner.cc:611] paths time(msec): 70.168
+I20200713 09:37:35.090710   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.090909   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.091023   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.091073   548 local_planner.cc:646] total plan time(msec): 70.662
+I20200713 09:37:35.120283   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.120340   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.120505   548 local_planner.cc:565] time interal: 0.100026
+I20200713 09:37:35.120559   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.185874   548 local_planner.cc:611] paths time(msec): 65.2
+I20200713 09:37:35.185945   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.186136   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.186254   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.186303   548 local_planner.cc:646] total plan time(msec): 65.731
+I20200713 09:37:35.220237   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:35.320263   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.320322   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.320331   548 local_planner.cc:565] time interal: 0.199981
+I20200713 09:37:35.320405   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.387385   548 local_planner.cc:611] paths time(msec): 66.851
+I20200713 09:37:35.387470   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.387737   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.387856   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.387919   548 local_planner.cc:646] total plan time(msec): 67.498
+I20200713 09:37:35.420271   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:35.520385   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.520453   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.520463   548 local_planner.cc:565] time interal: 0.200132
+I20200713 09:37:35.520514   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.588563   548 local_planner.cc:611] paths time(msec): 67.938
+I20200713 09:37:35.588685   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.588857   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.588999   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.589079   548 local_planner.cc:646] total plan time(msec): 68.553
+I20200713 09:37:35.620306   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.620378   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.620414   548 local_planner.cc:565] time interal: 0.0999245
+I20200713 09:37:35.620460   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.687337   548 local_planner.cc:611] paths time(msec): 66.76
+I20200713 09:37:35.687419   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.687629   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.687744   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.687803   548 local_planner.cc:646] total plan time(msec): 67.332
+I20200713 09:37:35.720288   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.720346   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.720382   548 local_planner.cc:565] time interal: 0.0999684
+I20200713 09:37:35.720424   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.787170   548 local_planner.cc:611] paths time(msec): 66.629
+I20200713 09:37:35.787250   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.787449   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.787565   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.787626   548 local_planner.cc:646] total plan time(msec): 67.19
+I20200713 09:37:35.820281   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:35.820338   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:35.820348   548 local_planner.cc:565] time interal: 0.0999912
+I20200713 09:37:35.820420   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:35.890154   548 local_planner.cc:611] paths time(msec): 69.639
+I20200713 09:37:35.890336   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:35.890585   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:35.890722   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:35.890772   548 local_planner.cc:646] total plan time(msec): 70.342
+I20200713 09:37:35.920248   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:36.020249   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.020305   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.020318   548 local_planner.cc:565] time interal: 0.199968
+I20200713 09:37:36.020359   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.087703   548 local_planner.cc:611] paths time(msec): 67.203
+I20200713 09:37:36.087786   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.087962   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.088214   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.088274   548 local_planner.cc:646] total plan time(msec): 67.876
+I20200713 09:37:36.120290   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.120345   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.120354   548 local_planner.cc:565] time interal: 0.100039
+I20200713 09:37:36.120400   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.188324   548 local_planner.cc:611] paths time(msec): 67.795
+I20200713 09:37:36.188421   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.188635   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.188933   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.188990   548 local_planner.cc:646] total plan time(msec): 68.547
+I20200713 09:37:36.220388   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.220456   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.220466   548 local_planner.cc:565] time interal: 0.100111
+I20200713 09:37:36.220515   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.287971   548 local_planner.cc:611] paths time(msec): 67.316
+I20200713 09:37:36.288094   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.288313   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.288547   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.288600   548 local_planner.cc:646] total plan time(msec): 68.048
+I20200713 09:37:36.320271   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.320327   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.320338   548 local_planner.cc:565] time interal: 0.0998722
+I20200713 09:37:36.320381   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.389549   548 local_planner.cc:611] paths time(msec): 69.041
+I20200713 09:37:36.389632   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.389804   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.390010   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.390064   548 local_planner.cc:646] total plan time(msec): 69.645
+I20200713 09:37:36.420269   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.420333   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.420343   548 local_planner.cc:565] time interal: 0.100006
+I20200713 09:37:36.420390   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.486773   548 local_planner.cc:611] paths time(msec): 66.235
+I20200713 09:37:36.486855   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.487164   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.487419   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.487601   548 local_planner.cc:646] total plan time(msec): 67.166
+I20200713 09:37:36.520273   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.520328   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.520339   548 local_planner.cc:565] time interal: 0.0999947
+I20200713 09:37:36.520390   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.588465   548 local_planner.cc:611] paths time(msec): 67.929
+I20200713 09:37:36.588544   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.588726   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.588944   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.588999   548 local_planner.cc:646] total plan time(msec): 68.568
+I20200713 09:37:36.620282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.620338   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.620348   548 local_planner.cc:565] time interal: 0.10001
+I20200713 09:37:36.620394   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.691378   548 local_planner.cc:611] paths time(msec): 70.859
+I20200713 09:37:36.691489   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.691941   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.692247   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.692310   548 local_planner.cc:646] total plan time(msec): 71.874
+I20200713 09:37:36.720571   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.720630   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.720641   548 local_planner.cc:565] time interal: 0.100292
+I20200713 09:37:36.720697   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.789211   548 local_planner.cc:611] paths time(msec): 68.474
+I20200713 09:37:36.789288   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.789481   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.789695   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.789752   548 local_planner.cc:646] total plan time(msec): 69.042
+I20200713 09:37:36.820267   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.820322   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.820333   548 local_planner.cc:565] time interal: 0.0996927
+I20200713 09:37:36.820375   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.888165   548 local_planner.cc:611] paths time(msec): 67.678
+I20200713 09:37:36.888435   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.888608   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.888833   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.888887   548 local_planner.cc:646] total plan time(msec): 68.474
+I20200713 09:37:36.920327   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:36.920401   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:36.920413   548 local_planner.cc:565] time interal: 0.100078
+I20200713 09:37:36.920459   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:36.990516   548 local_planner.cc:611] paths time(msec): 69.935
+I20200713 09:37:36.990589   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:36.990764   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:36.990993   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:36.991050   548 local_planner.cc:646] total plan time(msec): 70.58
+I20200713 09:37:37.020274   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.020334   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.020345   548 local_planner.cc:565] time interal: 0.099934
+I20200713 09:37:37.020390   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.087785   548 local_planner.cc:611] paths time(msec): 67.139
+I20200713 09:37:37.087860   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.088119   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.088285   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.088342   548 local_planner.cc:646] total plan time(msec): 67.802
+I20200713 09:37:37.120259   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.120318   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.120327   548 local_planner.cc:565] time interal: 0.0999836
+I20200713 09:37:37.120368   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.185451   548 local_planner.cc:611] paths time(msec): 65.019
+I20200713 09:37:37.185542   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.185768   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.185942   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.186012   548 local_planner.cc:646] total plan time(msec): 65.599
+I20200713 09:37:37.220386   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.220443   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.220453   548 local_planner.cc:565] time interal: 0.100125
+I20200713 09:37:37.220499   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.287820   548 local_planner.cc:611] paths time(msec): 67.225
+I20200713 09:37:37.287935   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.288149   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.288326   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.288390   548 local_planner.cc:646] total plan time(msec): 67.879
+I20200713 09:37:37.320212   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.320273   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.320282   548 local_planner.cc:565] time interal: 0.0998304
+I20200713 09:37:37.320324   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.386966   548 local_planner.cc:611] paths time(msec): 66.498
+I20200713 09:37:37.387037   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.387233   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.387375   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.387450   548 local_planner.cc:646] total plan time(msec): 67.081
+I20200713 09:37:37.420354   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.420409   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.420418   548 local_planner.cc:565] time interal: 0.100135
+I20200713 09:37:37.420464   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.484786   548 local_planner.cc:611] paths time(msec): 64.278
+I20200713 09:37:37.484854   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.485075   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.485222   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.485280   548 local_planner.cc:646] total plan time(msec): 64.806
+I20200713 09:37:37.520292   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.520345   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.520354   548 local_planner.cc:565] time interal: 0.099936
+I20200713 09:37:37.520397   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.587224   548 local_planner.cc:611] paths time(msec): 66.683
+I20200713 09:37:37.587301   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.587478   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.587628   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.587708   548 local_planner.cc:646] total plan time(msec): 67.271
+I20200713 09:37:37.620263   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.620316   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.620326   548 local_planner.cc:565] time interal: 0.0999715
+I20200713 09:37:37.620368   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.687192   548 local_planner.cc:611] paths time(msec): 66.686
+I20200713 09:37:37.687304   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.687664   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.687877   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.687934   548 local_planner.cc:646] total plan time(msec): 67.529
+I20200713 09:37:37.720358   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.720414   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.720423   548 local_planner.cc:565] time interal: 0.100097
+I20200713 09:37:37.720471   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.785933   548 local_planner.cc:611] paths time(msec): 65.355
+I20200713 09:37:37.786005   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.786192   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.786339   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.786396   548 local_planner.cc:646] total plan time(msec): 65.914
+I20200713 09:37:37.820264   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.820317   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.820327   548 local_planner.cc:565] time interal: 0.0999039
+I20200713 09:37:37.820370   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.888463   548 local_planner.cc:611] paths time(msec): 67.954
+I20200713 09:37:37.888540   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.888729   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.888878   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.888938   548 local_planner.cc:646] total plan time(msec): 68.53
+I20200713 09:37:37.920292   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:37.920348   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:37.920358   548 local_planner.cc:565] time interal: 0.100031
+I20200713 09:37:37.920400   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:37.989964   548 local_planner.cc:611] paths time(msec): 69.452
+I20200713 09:37:37.990048   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:37.990226   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:37.991524   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:37.991629   548 local_planner.cc:646] total plan time(msec): 71.216
+I20200713 09:37:38.020287   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.020340   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.020350   548 local_planner.cc:565] time interal: 0.0999912
+I20200713 09:37:38.020392   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.091398   548 local_planner.cc:611] paths time(msec): 70.859
+I20200713 09:37:38.091537   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.091712   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.091852   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.091908   548 local_planner.cc:646] total plan time(msec): 71.473
+I20200713 09:37:38.120291   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.120347   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.120378   548 local_planner.cc:565] time interal: 0.100006
+I20200713 09:37:38.120422   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.192713   548 local_planner.cc:611] paths time(msec): 72.077
+I20200713 09:37:38.192796   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.192971   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.193114   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.193171   548 local_planner.cc:646] total plan time(msec): 72.635
+I20200713 09:37:38.220261   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.220316   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.220325   548 local_planner.cc:565] time interal: 0.0999708
+I20200713 09:37:38.220367   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.288810   548 local_planner.cc:611] paths time(msec): 68.299
+I20200713 09:37:38.288892   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.289113   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.289499   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.289665   548 local_planner.cc:646] total plan time(msec): 69.259
+I20200713 09:37:38.320276   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.320331   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.320341   548 local_planner.cc:565] time interal: 0.100015
+I20200713 09:37:38.320386   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.385998   548 local_planner.cc:611] paths time(msec): 65.464
+I20200713 09:37:38.386078   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.386250   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.386407   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.386502   548 local_planner.cc:646] total plan time(msec): 66.074
+I20200713 09:37:38.420279   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.420333   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.420343   548 local_planner.cc:565] time interal: 0.100001
+I20200713 09:37:38.420388   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.489431   548 local_planner.cc:611] paths time(msec): 68.966
+I20200713 09:37:38.489506   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.489704   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.489817   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.489866   548 local_planner.cc:646] total plan time(msec): 69.429
+I20200713 09:37:38.520267   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.520321   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.520330   548 local_planner.cc:565] time interal: 0.0999883
+I20200713 09:37:38.520373   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.588806   548 local_planner.cc:611] paths time(msec): 68.295
+I20200713 09:37:38.588882   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.589123   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.589258   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.589315   548 local_planner.cc:646] total plan time(msec): 68.905
+I20200713 09:37:38.620287   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.620342   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.620350   548 local_planner.cc:565] time interal: 0.10002
+I20200713 09:37:38.620394   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.686713   548 local_planner.cc:611] paths time(msec): 66.179
+I20200713 09:37:38.686787   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.686993   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.687285   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.687371   548 local_planner.cc:646] total plan time(msec): 66.935
+I20200713 09:37:38.720364   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.720432   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.720443   548 local_planner.cc:565] time interal: 0.100091
+I20200713 09:37:38.720491   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.787758   548 local_planner.cc:611] paths time(msec): 67.154
+I20200713 09:37:38.787840   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.788017   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.788203   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.788257   548 local_planner.cc:646] total plan time(msec): 67.754
+I20200713 09:37:38.820309   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.820379   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.820386   548 local_planner.cc:565] time interal: 0.0999456
+I20200713 09:37:38.820434   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.889024   548 local_planner.cc:611] paths time(msec): 68.449
+I20200713 09:37:38.889122   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.889302   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.889475   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.889534   548 local_planner.cc:646] total plan time(msec): 69.061
+I20200713 09:37:38.920310   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:38.920372   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:38.920382   548 local_planner.cc:565] time interal: 0.099994
+I20200713 09:37:38.920429   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:38.986008   548 local_planner.cc:611] paths time(msec): 65.443
+I20200713 09:37:38.986088   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:38.986253   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:38.986397   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:38.986447   548 local_planner.cc:646] total plan time(msec): 65.978
+I20200713 09:37:39.020550   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.020603   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.020612   548 local_planner.cc:565] time interal: 0.100231
+I20200713 09:37:39.020656   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.089363   548 local_planner.cc:611] paths time(msec): 68.596
+I20200713 09:37:39.089437   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.089661   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.090314   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.090385   548 local_planner.cc:646] total plan time(msec): 69.716
+I20200713 09:37:39.120312   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.120368   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.120380   548 local_planner.cc:565] time interal: 0.0997654
+I20200713 09:37:39.120425   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.188834   548 local_planner.cc:611] paths time(msec): 68.266
+I20200713 09:37:39.188910   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.189091   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.189230   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.189285   548 local_planner.cc:646] total plan time(msec): 68.815
+I20200713 09:37:39.220221   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.220284   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.220293   548 local_planner.cc:565] time interal: 0.0999158
+I20200713 09:37:39.220336   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.290340   548 local_planner.cc:611] paths time(msec): 69.726
+I20200713 09:37:39.290417   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.290597   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.290764   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.290817   548 local_planner.cc:646] total plan time(msec): 70.304
+I20200713 09:37:39.320217   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.320279   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.320288   548 local_planner.cc:565] time interal: 0.0999945
+I20200713 09:37:39.320328   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.388411   548 local_planner.cc:611] paths time(msec): 67.939
+I20200713 09:37:39.388484   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.388689   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.388839   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.388892   548 local_planner.cc:646] total plan time(msec): 68.521
+I20200713 09:37:39.420295   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.420353   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.420362   548 local_planner.cc:565] time interal: 0.100074
+I20200713 09:37:39.420408   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.487473   548 local_planner.cc:611] paths time(msec): 66.87
+I20200713 09:37:39.487552   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.487725   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.487869   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.487921   548 local_planner.cc:646] total plan time(msec): 67.462
+I20200713 09:37:39.520308   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.520365   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.520375   548 local_planner.cc:565] time interal: 0.100012
+I20200713 09:37:39.520419   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.586486   548 local_planner.cc:611] paths time(msec): 65.923
+I20200713 09:37:39.586580   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.586796   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.586916   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.587018   548 local_planner.cc:646] total plan time(msec): 66.555
+I20200713 09:37:39.620467   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.620553   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.620564   548 local_planner.cc:565] time interal: 0.100182
+I20200713 09:37:39.620615   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.689991   548 local_planner.cc:611] paths time(msec): 69.272
+I20200713 09:37:39.690063   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.690232   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.690382   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.690438   548 local_planner.cc:646] total plan time(msec): 69.809
+I20200713 09:37:39.720463   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.720522   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.720535   548 local_planner.cc:565] time interal: 0.0999758
+I20200713 09:37:39.720582   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.789949   548 local_planner.cc:611] paths time(msec): 69.257
+I20200713 09:37:39.790020   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.790253   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.790400   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.790463   548 local_planner.cc:646] total plan time(msec): 69.869
+I20200713 09:37:39.820413   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.820479   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.820489   548 local_planner.cc:565] time interal: 0.0999565
+I20200713 09:37:39.820533   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.897136   548 local_planner.cc:611] paths time(msec): 76.509
+I20200713 09:37:39.897212   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.897421   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.897547   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.897621   548 local_planner.cc:646] total plan time(msec): 77.076
+I20200713 09:37:39.920336   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:39.920392   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:39.920403   548 local_planner.cc:565] time interal: 0.0999136
+I20200713 09:37:39.920447   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:39.989040   548 local_planner.cc:611] paths time(msec): 68.48
+I20200713 09:37:39.989153   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:39.989337   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:39.989475   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:39.989526   548 local_planner.cc:646] total plan time(msec): 69.067
+I20200713 09:37:40.020418   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.020468   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.020480   548 local_planner.cc:565] time interal: 0.100076
+I20200713 09:37:40.020529   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.103125   548 local_planner.cc:611] paths time(msec): 81.952
+I20200713 09:37:40.103241   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.103406   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.103518   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.103569   548 local_planner.cc:646] total plan time(msec): 83.027
+I20200713 09:37:40.120582   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.120698   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.120712   548 local_planner.cc:565] time interal: 0.100229
+I20200713 09:37:40.120759   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.195647   548 local_planner.cc:611] paths time(msec): 74.797
+I20200713 09:37:40.195758   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.195916   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.196115   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.196339   548 local_planner.cc:646] total plan time(msec): 75.568
+I20200713 09:37:40.220293   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.220377   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.220392   548 local_planner.cc:565] time interal: 0.0996798
+I20200713 09:37:40.220438   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.291160   548 local_planner.cc:611] paths time(msec): 70.682
+I20200713 09:37:40.291242   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.291441   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.291558   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.291618   548 local_planner.cc:646] total plan time(msec): 71.169
+I20200713 09:37:40.320420   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.320475   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.320485   548 local_planner.cc:565] time interal: 0.100098
+I20200713 09:37:40.320531   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.390492   548 local_planner.cc:611] paths time(msec): 69.765
+I20200713 09:37:40.390687   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.390931   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.391049   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.391094   548 local_planner.cc:646] total plan time(msec): 70.448
+I20200713 09:37:40.420472   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.420526   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.420536   548 local_planner.cc:565] time interal: 0.100051
+I20200713 09:37:40.420580   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.487944   548 local_planner.cc:611] paths time(msec): 67.254
+I20200713 09:37:40.488060   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.488245   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.488363   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.488410   548 local_planner.cc:646] total plan time(msec): 67.817
+I20200713 09:37:40.520279   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.520332   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.520342   548 local_planner.cc:565] time interal: 0.0998069
+I20200713 09:37:40.520417   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.592654   548 local_planner.cc:611] paths time(msec): 72.09
+I20200713 09:37:40.592731   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.592909   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.593046   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.593091   548 local_planner.cc:646] total plan time(msec): 72.662
+I20200713 09:37:40.620339   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.620398   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.620407   548 local_planner.cc:565] time interal: 0.100064
+I20200713 09:37:40.620456   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.692106   548 local_planner.cc:611] paths time(msec): 71.488
+I20200713 09:37:40.692186   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.692404   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.692521   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.692569   548 local_planner.cc:646] total plan time(msec): 72.101
+I20200713 09:37:40.720399   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.720458   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.720468   548 local_planner.cc:565] time interal: 0.10006
+I20200713 09:37:40.720512   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.789139   548 local_planner.cc:611] paths time(msec): 68.58
+I20200713 09:37:40.789217   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.789422   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.789532   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.789575   548 local_planner.cc:646] total plan time(msec): 69.052
+I20200713 09:37:40.820583   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.820637   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.820647   548 local_planner.cc:565] time interal: 0.100179
+I20200713 09:37:40.820694   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.889394   548 local_planner.cc:611] paths time(msec): 68.607
+I20200713 09:37:40.889474   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.889639   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.889792   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.889840   548 local_planner.cc:646] total plan time(msec): 69.135
+I20200713 09:37:40.920398   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:40.920485   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:40.920497   548 local_planner.cc:565] time interal: 0.0998484
+I20200713 09:37:40.920557   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:40.988484   548 local_planner.cc:611] paths time(msec): 67.849
+I20200713 09:37:40.988559   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:40.988734   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:40.988881   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:40.988940   548 local_planner.cc:646] total plan time(msec): 68.372
+I20200713 09:37:41.020282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.020341   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.020351   548 local_planner.cc:565] time interal: 0.0998565
+I20200713 09:37:41.020393   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.087934   548 local_planner.cc:611] paths time(msec): 67.415
+I20200713 09:37:41.088081   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.088316   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.088457   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.088521   548 local_planner.cc:646] total plan time(msec): 68.085
+I20200713 09:37:41.120420   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.120476   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.120486   548 local_planner.cc:565] time interal: 0.100133
+I20200713 09:37:41.120533   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.191721   548 local_planner.cc:611] paths time(msec): 71.077
+I20200713 09:37:41.191792   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.191962   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.192159   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.192216   548 local_planner.cc:646] total plan time(msec): 71.671
+I20200713 09:37:41.220243   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.220324   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.220335   548 local_planner.cc:565] time interal: 0.099849
+I20200713 09:37:41.220400   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.288836   548 local_planner.cc:611] paths time(msec): 68.335
+I20200713 09:37:41.288913   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.289091   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.289239   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.289302   548 local_planner.cc:646] total plan time(msec): 68.887
+I20200713 09:37:41.320415   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.320482   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.320492   548 local_planner.cc:565] time interal: 0.100158
+I20200713 09:37:41.320545   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.387141   548 local_planner.cc:611] paths time(msec): 66.523
+I20200713 09:37:41.387217   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.387418   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.387562   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.387614   548 local_planner.cc:646] total plan time(msec): 67.055
+I20200713 09:37:41.420452   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.420516   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.420526   548 local_planner.cc:565] time interal: 0.100034
+I20200713 09:37:41.420569   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.490125   548 local_planner.cc:611] paths time(msec): 69.409
+I20200713 09:37:41.490312   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.490492   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.490635   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.490692   548 local_planner.cc:646] total plan time(msec): 70.084
+I20200713 09:37:41.520359   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.520412   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.520421   548 local_planner.cc:565] time interal: 0.099896
+I20200713 09:37:41.520474   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.587757   548 local_planner.cc:611] paths time(msec): 67.167
+I20200713 09:37:41.587872   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.588120   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.588254   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.588316   548 local_planner.cc:646] total plan time(msec): 67.829
+I20200713 09:37:41.620290   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.620344   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.620354   548 local_planner.cc:565] time interal: 0.099932
+I20200713 09:37:41.620399   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.687121   548 local_planner.cc:611] paths time(msec): 66.61
+I20200713 09:37:41.687202   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.687402   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.687515   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.687579   548 local_planner.cc:646] total plan time(msec): 67.141
+I20200713 09:37:41.720747   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.720811   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.720826   548 local_planner.cc:565] time interal: 0.100467
+I20200713 09:37:41.720885   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.790504   548 local_planner.cc:611] paths time(msec): 69.493
+I20200713 09:37:41.790596   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.790796   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.790944   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.791004   548 local_planner.cc:646] total plan time(msec): 70.104
+I20200713 09:37:41.820346   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.820405   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.820415   548 local_planner.cc:565] time interal: 0.0995945
+I20200713 09:37:41.820459   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.889943   548 local_planner.cc:611] paths time(msec): 69.364
+I20200713 09:37:41.890077   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.890272   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.890408   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.890483   548 local_planner.cc:646] total plan time(msec): 70.011
+I20200713 09:37:41.920295   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:41.920351   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:41.920394   548 local_planner.cc:565] time interal: 0.0999452
+I20200713 09:37:41.920439   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:41.987788   548 local_planner.cc:611] paths time(msec): 67.314
+I20200713 09:37:41.987874   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:41.988086   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:41.988243   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:41.988299   548 local_planner.cc:646] total plan time(msec): 67.847
+I20200713 09:37:42.020399   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.020464   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.020474   548 local_planner.cc:565] time interal: 0.100113
+I20200713 09:37:42.020519   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.086988   548 local_planner.cc:611] paths time(msec): 66.412
+I20200713 09:37:42.087067   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.087270   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.087405   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.087460   548 local_planner.cc:646] total plan time(msec): 66.904
+I20200713 09:37:42.120646   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.120703   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.120716   548 local_planner.cc:565] time interal: 0.100238
+I20200713 09:37:42.120770   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.194690   548 local_planner.cc:611] paths time(msec): 73.84
+I20200713 09:37:42.194761   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.194933   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.195080   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.195132   548 local_planner.cc:646] total plan time(msec): 74.346
+I20200713 09:37:42.220427   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.220481   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.220494   548 local_planner.cc:565] time interal: 0.0997784
+I20200713 09:37:42.220541   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.294097   548 local_planner.cc:611] paths time(msec): 73.444
+I20200713 09:37:42.294171   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.294344   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.294481   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.294545   548 local_planner.cc:646] total plan time(msec): 73.991
+I20200713 09:37:42.320277   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.320333   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.320343   548 local_planner.cc:565] time interal: 0.0998529
+I20200713 09:37:42.320389   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.388957   548 local_planner.cc:611] paths time(msec): 68.511
+I20200713 09:37:42.389027   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.389195   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.389452   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.389509   548 local_planner.cc:646] total plan time(msec): 69.082
+I20200713 09:37:42.420414   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.420473   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.420483   548 local_planner.cc:565] time interal: 0.10014
+I20200713 09:37:42.420540   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.492099   548 local_planner.cc:611] paths time(msec): 71.529
+I20200713 09:37:42.492167   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.492333   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.492480   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.492559   548 local_planner.cc:646] total plan time(msec): 72.006
+I20200713 09:37:42.520509   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.520568   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.520579   548 local_planner.cc:565] time interal: 0.100095
+I20200713 09:37:42.520627   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.588722   548 local_planner.cc:611] paths time(msec): 67.953
+I20200713 09:37:42.588887   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.589053   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.589654   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.589732   548 local_planner.cc:646] total plan time(msec): 69.061
+I20200713 09:37:42.620364   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.620424   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.620434   548 local_planner.cc:565] time interal: 0.0998546
+I20200713 09:37:42.620479   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.688854   548 local_planner.cc:611] paths time(msec): 68.22
+I20200713 09:37:42.688941   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.689275   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.689414   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.689473   548 local_planner.cc:646] total plan time(msec): 68.983
+I20200713 09:37:42.720464   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.720526   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.720540   548 local_planner.cc:565] time interal: 0.100103
+I20200713 09:37:42.720590   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.791432   548 local_planner.cc:611] paths time(msec): 70.73
+I20200713 09:37:42.791507   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.791718   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.791831   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.791901   548 local_planner.cc:646] total plan time(msec): 71.297
+I20200713 09:37:42.820405   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.820463   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.820472   548 local_planner.cc:565] time interal: 0.0999369
+I20200713 09:37:42.820518   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.887868   548 local_planner.cc:611] paths time(msec): 67.237
+I20200713 09:37:42.887933   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.888155   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.888319   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.888371   548 local_planner.cc:646] total plan time(msec): 67.843
+I20200713 09:37:42.920343   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:42.920399   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:42.920409   548 local_planner.cc:565] time interal: 0.0999365
+I20200713 09:37:42.920454   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:42.991838   548 local_planner.cc:611] paths time(msec): 71.296
+I20200713 09:37:42.991945   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:42.992321   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:42.992458   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:42.992519   548 local_planner.cc:646] total plan time(msec): 72.055
+I20200713 09:37:43.020412   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.020471   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.020481   548 local_planner.cc:565] time interal: 0.100071
+I20200713 09:37:43.020529   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.090191   548 local_planner.cc:611] paths time(msec): 69.557
+I20200713 09:37:43.090294   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.090471   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.090605   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.090663   548 local_planner.cc:646] total plan time(msec): 70.123
+I20200713 09:37:43.120710   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.120949   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.120966   548 local_planner.cc:565] time interal: 0.100475
+I20200713 09:37:43.121031   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.193747   548 local_planner.cc:611] paths time(msec): 72.603
+I20200713 09:37:43.193854   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.194046   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.194180   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.194239   548 local_planner.cc:646] total plan time(msec): 73.193
+I20200713 09:37:43.220444   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.220501   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.220512   548 local_planner.cc:565] time interal: 0.0995563
+I20200713 09:37:43.220557   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.288708   548 local_planner.cc:611] paths time(msec): 68.069
+I20200713 09:37:43.288784   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.288954   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.289094   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.289146   548 local_planner.cc:646] total plan time(msec): 68.577
+I20200713 09:37:43.320515   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.320574   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.320587   548 local_planner.cc:565] time interal: 0.100073
+I20200713 09:37:43.320637   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.388468   548 local_planner.cc:611] paths time(msec): 67.716
+I20200713 09:37:43.388589   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.388797   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.388928   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.388983   548 local_planner.cc:646] total plan time(msec): 68.332
+I20200713 09:37:43.420467   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.420529   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.420540   548 local_planner.cc:565] time interal: 0.0999542
+I20200713 09:37:43.420590   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.489598   548 local_planner.cc:611] paths time(msec): 68.897
+I20200713 09:37:43.489683   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.489856   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.490000   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.490059   548 local_planner.cc:646] total plan time(msec): 69.456
+I20200713 09:37:43.520547   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.520620   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.520634   548 local_planner.cc:565] time interal: 0.100091
+I20200713 09:37:43.520690   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.590126   548 local_planner.cc:611] paths time(msec): 69.325
+I20200713 09:37:43.590198   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.590523   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.590662   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.590720   548 local_planner.cc:646] total plan time(msec): 70.015
+I20200713 09:37:43.620451   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.620512   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.620522   548 local_planner.cc:565] time interal: 0.0998908
+I20200713 09:37:43.620568   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.688318   548 local_planner.cc:611] paths time(msec): 67.603
+I20200713 09:37:43.688493   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.688668   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.688815   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.688868   548 local_planner.cc:646] total plan time(msec): 68.255
+I20200713 09:37:43.720813   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.720875   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.720886   548 local_planner.cc:565] time interal: 0.100364
+I20200713 09:37:43.720938   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.792203   548 local_planner.cc:611] paths time(msec): 71.153
+I20200713 09:37:43.792281   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.792466   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.792608   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.792666   548 local_planner.cc:646] total plan time(msec): 71.715
+I20200713 09:37:43.820268   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.820331   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.820344   548 local_planner.cc:565] time interal: 0.0994567
+I20200713 09:37:43.820396   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.891561   548 local_planner.cc:611] paths time(msec): 71.016
+I20200713 09:37:43.891635   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.891810   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.891952   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.892007   548 local_planner.cc:646] total plan time(msec): 71.558
+I20200713 09:37:43.920387   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:43.920444   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:43.920455   548 local_planner.cc:565] time interal: 0.100113
+I20200713 09:37:43.920502   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:43.989506   548 local_planner.cc:611] paths time(msec): 68.885
+I20200713 09:37:43.989585   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:43.989760   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:43.989898   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:43.989950   548 local_planner.cc:646] total plan time(msec): 69.436
+I20200713 09:37:44.020315   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.020373   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.020383   548 local_planner.cc:565] time interal: 0.0999288
+I20200713 09:37:44.020427   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.088865   548 local_planner.cc:611] paths time(msec): 68.31
+I20200713 09:37:44.088945   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.089156   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.089290   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.089339   548 local_planner.cc:646] total plan time(msec): 68.9
+I20200713 09:37:44.120518   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.120587   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.120602   548 local_planner.cc:565] time interal: 0.100214
+I20200713 09:37:44.120656   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.191823   548 local_planner.cc:611] paths time(msec): 71.122
+I20200713 09:37:44.191902   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.192184   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.192489   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.192548   548 local_planner.cc:646] total plan time(msec): 71.88
+I20200713 09:37:44.220433   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.220636   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.220654   548 local_planner.cc:565] time interal: 0.100047
+I20200713 09:37:44.220708   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.293088   548 local_planner.cc:611] paths time(msec): 72.272
+I20200713 09:37:44.293162   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.293340   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.293490   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.293548   548 local_planner.cc:646] total plan time(msec): 72.827
+I20200713 09:37:44.320505   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.320564   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.320574   548 local_planner.cc:565] time interal: 0.0999306
+I20200713 09:37:44.320618   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.388900   548 local_planner.cc:611] paths time(msec): 68.164
+I20200713 09:37:44.388974   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.389168   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.389312   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.389364   548 local_planner.cc:646] total plan time(msec): 68.703
+I20200713 09:37:44.420487   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.420550   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.420562   548 local_planner.cc:565] time interal: 0.0999861
+I20200713 09:37:44.420610   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.492270   548 local_planner.cc:611] paths time(msec): 71.58
+I20200713 09:37:44.492349   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.492528   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.492677   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.492730   548 local_planner.cc:646] total plan time(msec): 72.106
+I20200713 09:37:44.520289   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.520344   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.520354   548 local_planner.cc:565] time interal: 0.0997947
+I20200713 09:37:44.520424   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.587098   548 local_planner.cc:611] paths time(msec): 66.553
+I20200713 09:37:44.587143   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.587258   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.587344   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.587394   548 local_planner.cc:646] total plan time(msec): 66.957
+I20200713 09:37:44.620087   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.620122   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.620131   548 local_planner.cc:565] time interal: 0.0997776
+I20200713 09:37:44.620164   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.690934   548 local_planner.cc:611] paths time(msec): 70.662
+I20200713 09:37:44.691030   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.691206   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.691398   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.691452   548 local_planner.cc:646] total plan time(msec): 71.276
+I20200713 09:37:44.720402   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.720460   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.720472   548 local_planner.cc:565] time interal: 0.100338
+I20200713 09:37:44.720520   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.792402   548 local_planner.cc:611] paths time(msec): 71.802
+I20200713 09:37:44.792593   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.792780   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.792892   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.792948   548 local_planner.cc:646] total plan time(msec): 72.416
+I20200713 09:37:44.820294   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.820350   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.820360   548 local_planner.cc:565] time interal: 0.0998903
+I20200713 09:37:44.820401   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.892953   548 local_planner.cc:611] paths time(msec): 72.411
+I20200713 09:37:44.893064   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.893327   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.893471   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.893527   548 local_planner.cc:646] total plan time(msec): 73.084
+I20200713 09:37:44.920405   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:44.920475   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:44.920485   548 local_planner.cc:565] time interal: 0.100123
+I20200713 09:37:44.920537   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:44.993698   548 local_planner.cc:611] paths time(msec): 73.129
+I20200713 09:37:44.993803   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:44.993991   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:44.994112   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:44.994166   548 local_planner.cc:646] total plan time(msec): 73.617
+I20200713 09:37:45.020339   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.020396   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.020406   548 local_planner.cc:565] time interal: 0.0999224
+I20200713 09:37:45.020453   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.092918   548 local_planner.cc:611] paths time(msec): 72.349
+I20200713 09:37:45.093078   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.093281   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.093575   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.093631   548 local_planner.cc:646] total plan time(msec): 73.166
+I20200713 09:37:45.120398   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.120460   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.120471   548 local_planner.cc:565] time interal: 0.100063
+I20200713 09:37:45.120522   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.192574   548 local_planner.cc:611] paths time(msec): 71.936
+I20200713 09:37:45.192656   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.192850   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.192966   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.193099   548 local_planner.cc:646] total plan time(msec): 72.563
+I20200713 09:37:45.220445   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.220504   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.220515   548 local_planner.cc:565] time interal: 0.100044
+I20200713 09:37:45.220563   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.292143   548 local_planner.cc:611] paths time(msec): 71.374
+I20200713 09:37:45.292217   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.292402   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.292569   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.292657   548 local_planner.cc:646] total plan time(msec): 72.081
+I20200713 09:37:45.320760   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.320960   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.320977   548 local_planner.cc:565] time interal: 0.100454
+I20200713 09:37:45.321033   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.393448   548 local_planner.cc:611] paths time(msec): 72.305
+I20200713 09:37:45.393556   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.393882   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.394018   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.394062   548 local_planner.cc:646] total plan time(msec): 73.015
+I20200713 09:37:45.420408   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.420464   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.420473   548 local_planner.cc:565] time interal: 0.0995073
+I20200713 09:37:45.420521   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.492148   548 local_planner.cc:611] paths time(msec): 71.46
+I20200713 09:37:45.492226   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.492408   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.492553   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.492605   548 local_planner.cc:646] total plan time(msec): 72.073
+I20200713 09:37:45.520416   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.520480   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.520489   548 local_planner.cc:565] time interal: 0.100016
+I20200713 09:37:45.520537   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.593947   548 local_planner.cc:611] paths time(msec): 73.301
+I20200713 09:37:45.594053   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.594357   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.594491   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.594538   548 local_planner.cc:646] total plan time(msec): 73.988
+I20200713 09:37:45.620488   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.620548   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.620558   548 local_planner.cc:565] time interal: 0.100068
+I20200713 09:37:45.620605   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.692241   548 local_planner.cc:611] paths time(msec): 71.546
+I20200713 09:37:45.692320   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.692487   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.692636   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.692696   548 local_planner.cc:646] total plan time(msec): 72.078
+I20200713 09:37:45.720368   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.720432   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.720441   548 local_planner.cc:565] time interal: 0.099884
+I20200713 09:37:45.720490   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.788998   548 local_planner.cc:611] paths time(msec): 68.442
+I20200713 09:37:45.789073   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.789278   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.789415   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.789466   548 local_planner.cc:646] total plan time(msec): 68.964
+I20200713 09:37:45.820582   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.820644   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.820655   548 local_planner.cc:565] time interal: 0.100213
+I20200713 09:37:45.820706   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.887720   548 local_planner.cc:611] paths time(msec): 66.921
+I20200713 09:37:45.887907   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.888224   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.888429   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.888489   548 local_planner.cc:646] total plan time(msec): 67.77
+I20200713 09:37:45.920337   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:45.920401   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:45.920410   548 local_planner.cc:565] time interal: 0.0997565
+I20200713 09:37:45.920459   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:45.991132   548 local_planner.cc:611] paths time(msec): 70.644
+I20200713 09:37:45.991206   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:45.991417   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:45.991586   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:45.991642   548 local_planner.cc:646] total plan time(msec): 71.172
+I20200713 09:37:46.020378   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.020464   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.020475   548 local_planner.cc:565] time interal: 0.100063
+I20200713 09:37:46.020522   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.089308   548 local_planner.cc:611] paths time(msec): 68.74
+I20200713 09:37:46.089393   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.089612   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.089727   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.089927   548 local_planner.cc:646] total plan time(msec): 69.391
+I20200713 09:37:46.120455   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.120513   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.120523   548 local_planner.cc:565] time interal: 0.100049
+I20200713 09:37:46.120566   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.190016   548 local_planner.cc:611] paths time(msec): 69.348
+I20200713 09:37:46.190127   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.190490   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.190631   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.190685   548 local_planner.cc:646] total plan time(msec): 70.081
+I20200713 09:37:46.220285   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.220338   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.220348   548 local_planner.cc:565] time interal: 0.0998256
+I20200713 09:37:46.220391   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.292507   548 local_planner.cc:611] paths time(msec): 71.999
+I20200713 09:37:46.292584   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.293494   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.293710   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.293771   548 local_planner.cc:646] total plan time(msec): 73.331
+I20200713 09:37:46.320482   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.320544   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.320587   548 local_planner.cc:565] time interal: 0.100204
+I20200713 09:37:46.320642   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.391484   548 local_planner.cc:611] paths time(msec): 70.729
+I20200713 09:37:46.391563   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.392117   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.392277   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.392338   548 local_planner.cc:646] total plan time(msec): 71.683
+I20200713 09:37:46.420291   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.420452   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.420467   548 local_planner.cc:565] time interal: 0.099908
+I20200713 09:37:46.420552   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.489576   548 local_planner.cc:611] paths time(msec): 68.916
+I20200713 09:37:46.489691   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.490411   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.490561   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.490617   548 local_planner.cc:646] total plan time(msec): 70.052
+I20200713 09:37:46.520300   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.520364   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.520375   548 local_planner.cc:565] time interal: 0.0999136
+I20200713 09:37:46.520434   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.590248   548 local_planner.cc:611] paths time(msec): 69.678
+I20200713 09:37:46.590342   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.590512   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.590652   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.590708   548 local_planner.cc:646] total plan time(msec): 70.261
+I20200713 09:37:46.620309   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.620371   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.620383   548 local_planner.cc:565] time interal: 0.100008
+I20200713 09:37:46.620429   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.689846   548 local_planner.cc:611] paths time(msec): 69.296
+I20200713 09:37:46.689966   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.690167   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.690306   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.690358   548 local_planner.cc:646] total plan time(msec): 69.883
+I20200713 09:37:46.720623   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.720696   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.720705   548 local_planner.cc:565] time interal: 0.100324
+I20200713 09:37:46.720749   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.790179   548 local_planner.cc:611] paths time(msec): 69.308
+I20200713 09:37:46.790275   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.790508   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.790648   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.790699   548 local_planner.cc:646] total plan time(msec): 69.938
+I20200713 09:37:46.820447   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.820509   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.820520   548 local_planner.cc:565] time interal: 0.099813
+I20200713 09:37:46.820567   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.888787   548 local_planner.cc:611] paths time(msec): 68.137
+I20200713 09:37:46.888860   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.889031   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.889179   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.889231   548 local_planner.cc:646] total plan time(msec): 68.652
+I20200713 09:37:46.920356   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:46.920421   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:46.920431   548 local_planner.cc:565] time interal: 0.0999115
+I20200713 09:37:46.920480   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:46.991562   548 local_planner.cc:611] paths time(msec): 71.002
+I20200713 09:37:46.991642   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:46.991983   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:46.992146   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:46.992210   548 local_planner.cc:646] total plan time(msec): 71.718
+I20200713 09:37:47.020345   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.020407   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.020417   548 local_planner.cc:565] time interal: 0.0999866
+I20200713 09:37:47.020467   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.090538   548 local_planner.cc:611] paths time(msec): 69.98
+I20200713 09:37:47.090648   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.090834   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.090972   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.091032   548 local_planner.cc:646] total plan time(msec): 70.554
+I20200713 09:37:47.120440   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.120527   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.120577   548 local_planner.cc:565] time interal: 0.100119
+I20200713 09:37:47.120633   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.188252   548 local_planner.cc:611] paths time(msec): 67.585
+I20200713 09:37:47.188328   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.188504   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.188642   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.188694   548 local_planner.cc:646] total plan time(msec): 68.05
+I20200713 09:37:47.220279   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.220337   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.220346   548 local_planner.cc:565] time interal: 0.0998108
+I20200713 09:37:47.220391   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.289603   548 local_planner.cc:611] paths time(msec): 69.073
+I20200713 09:37:47.289692   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.289891   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.290046   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.290102   548 local_planner.cc:646] total plan time(msec): 69.67
+I20200713 09:37:47.320278   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.320333   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.320343   548 local_planner.cc:565] time interal: 0.0999957
+I20200713 09:37:47.320385   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.388314   548 local_planner.cc:611] paths time(msec): 67.867
+I20200713 09:37:47.388401   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.388583   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.388731   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.388911   548 local_planner.cc:646] total plan time(msec): 68.484
+I20200713 09:37:47.420329   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.420387   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.420397   548 local_planner.cc:565] time interal: 0.100055
+I20200713 09:37:47.420442   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.491719   548 local_planner.cc:611] paths time(msec): 71.208
+I20200713 09:37:47.491802   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.492061   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.492394   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.492473   548 local_planner.cc:646] total plan time(msec): 71.988
+I20200713 09:37:47.520283   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.520450   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.520462   548 local_planner.cc:565] time interal: 0.100062
+I20200713 09:37:47.520519   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.588694   548 local_planner.cc:611] paths time(msec): 68.086
+I20200713 09:37:47.588770   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.588953   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.589134   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.589188   548 local_planner.cc:646] total plan time(msec): 68.657
+I20200713 09:37:47.620276   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:47.720163   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.720221   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.720229   548 local_planner.cc:565] time interal: 0.199772
+I20200713 09:37:47.720281   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.787011   548 local_planner.cc:611] paths time(msec): 66.621
+I20200713 09:37:47.787086   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.787300   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.787449   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.787509   548 local_planner.cc:646] total plan time(msec): 67.217
+I20200713 09:37:47.820261   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.820317   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.820327   548 local_planner.cc:565] time interal: 0.100096
+I20200713 09:37:47.820370   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.889034   548 local_planner.cc:611] paths time(msec): 68.553
+I20200713 09:37:47.889109   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.889494   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.889639   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.889688   548 local_planner.cc:646] total plan time(msec): 69.275
+I20200713 09:37:47.920284   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:47.920337   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:47.920347   548 local_planner.cc:565] time interal: 0.100021
+I20200713 09:37:47.920393   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:47.988096   548 local_planner.cc:611] paths time(msec): 67.524
+I20200713 09:37:47.988176   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:47.988370   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:47.988518   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:47.988585   548 local_planner.cc:646] total plan time(msec): 68.147
+I20200713 09:37:48.020294   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:48.120302   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.120362   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.120371   548 local_planner.cc:565] time interal: 0.200023
+I20200713 09:37:48.120419   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.192873   548 local_planner.cc:611] paths time(msec): 72.314
+I20200713 09:37:48.192955   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.193166   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.193285   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.193372   548 local_planner.cc:646] total plan time(msec): 72.91
+I20200713 09:37:48.220713   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:48.321583   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.321694   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.321722   548 local_planner.cc:565] time interal: 0.201329
+I20200713 09:37:48.322005   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.407742   548 local_planner.cc:611] paths time(msec): 85.549
+I20200713 09:37:48.407821   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.407994   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.408299   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.408358   548 local_planner.cc:646] total plan time(msec): 86.226
+I20200713 09:37:48.420374   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:48.520298   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.520357   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.520368   548 local_planner.cc:565] time interal: 0.198667
+I20200713 09:37:48.520412   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.587245   548 local_planner.cc:611] paths time(msec): 66.728
+I20200713 09:37:48.587319   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.587505   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.587646   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.587694   548 local_planner.cc:646] total plan time(msec): 67.27
+I20200713 09:37:48.620290   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.620345   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.620354   548 local_planner.cc:565] time interal: 0.0999881
+I20200713 09:37:48.620399   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.686010   548 local_planner.cc:611] paths time(msec): 65.471
+I20200713 09:37:48.686089   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.686280   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.686409   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.686467   548 local_planner.cc:646] total plan time(msec): 66.028
+I20200713 09:37:48.720324   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:48.820295   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.820356   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.820366   548 local_planner.cc:565] time interal: 0.200011
+I20200713 09:37:48.820413   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.885006   548 local_planner.cc:611] paths time(msec): 64.485
+I20200713 09:37:48.885089   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.885329   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.885478   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.885529   548 local_planner.cc:646] total plan time(msec): 65.106
+I20200713 09:37:48.920303   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:48.920361   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:48.920370   548 local_planner.cc:565] time interal: 0.100006
+I20200713 09:37:48.920421   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:48.988267   548 local_planner.cc:611] paths time(msec): 67.704
+I20200713 09:37:48.988344   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:48.988552   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:48.988667   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:48.988746   548 local_planner.cc:646] total plan time(msec): 68.283
+I20200713 09:37:49.020318   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.020378   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.020387   548 local_planner.cc:565] time interal: 0.100017
+I20200713 09:37:49.020438   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.091593   548 local_planner.cc:611] paths time(msec): 71.016
+I20200713 09:37:49.091675   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.092006   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.092387   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.092453   548 local_planner.cc:646] total plan time(msec): 71.975
+I20200713 09:37:49.120329   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.120386   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.120396   548 local_planner.cc:565] time interal: 0.100008
+I20200713 09:37:49.120432   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.186115   548 local_planner.cc:611] paths time(msec): 65.546
+I20200713 09:37:49.186194   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.186373   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.186525   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.186578   548 local_planner.cc:646] total plan time(msec): 66.104
+I20200713 09:37:49.220255   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.220319   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.220329   548 local_planner.cc:565] time interal: 0.099932
+I20200713 09:37:49.220378   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.287767   548 local_planner.cc:611] paths time(msec): 67.282
+I20200713 09:37:49.287845   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.288086   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.288210   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.288480   548 local_planner.cc:646] total plan time(msec): 68.09
+I20200713 09:37:49.320266   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.320323   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.320333   548 local_planner.cc:565] time interal: 0.100006
+I20200713 09:37:49.320382   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.389920   548 local_planner.cc:611] paths time(msec): 69.397
+I20200713 09:37:49.389994   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.390199   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.390347   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.390408   548 local_planner.cc:646] total plan time(msec): 69.988
+I20200713 09:37:49.420294   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.420351   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.420359   548 local_planner.cc:565] time interal: 0.100026
+I20200713 09:37:49.420408   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.488219   548 local_planner.cc:611] paths time(msec): 67.739
+I20200713 09:37:49.488297   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.488472   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.488628   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.488682   548 local_planner.cc:646] total plan time(msec): 68.263
+I20200713 09:37:49.520267   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.520323   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.520332   548 local_planner.cc:565] time interal: 0.099973
+I20200713 09:37:49.520380   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.589987   548 local_planner.cc:611] paths time(msec): 69.495
+I20200713 09:37:49.590067   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.590250   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.590417   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.590479   548 local_planner.cc:646] total plan time(msec): 70.089
+I20200713 09:37:49.620282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.620445   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.620458   548 local_planner.cc:565] time interal: 0.100122
+I20200713 09:37:49.620509   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.690129   548 local_planner.cc:611] paths time(msec): 69.591
+I20200713 09:37:49.690205   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.690377   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.690507   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.690565   548 local_planner.cc:646] total plan time(msec): 70.043
+I20200713 09:37:49.720405   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.720479   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.720490   548 local_planner.cc:565] time interal: 0.100029
+I20200713 09:37:49.720544   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.789948   548 local_planner.cc:611] paths time(msec): 69.3
+I20200713 09:37:49.790030   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.790210   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.790359   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.790419   548 local_planner.cc:646] total plan time(msec): 69.829
+I20200713 09:37:49.820286   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.820344   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.820355   548 local_planner.cc:565] time interal: 0.099871
+I20200713 09:37:49.820403   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.890182   548 local_planner.cc:611] paths time(msec): 69.734
+I20200713 09:37:49.890264   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.890447   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.890606   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.890664   548 local_planner.cc:646] total plan time(msec): 70.249
+I20200713 09:37:49.920405   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:49.920465   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:49.920475   548 local_planner.cc:565] time interal: 0.100121
+I20200713 09:37:49.920523   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:49.990592   548 local_planner.cc:611] paths time(msec): 69.925
+I20200713 09:37:49.990680   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:49.990917   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:49.991053   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:49.991111   548 local_planner.cc:646] total plan time(msec): 70.54
+I20200713 09:37:50.020282   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.020335   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.020345   548 local_planner.cc:565] time interal: 0.09987
+I20200713 09:37:50.020396   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.086494   548 local_planner.cc:611] paths time(msec): 65.987
+I20200713 09:37:50.086572   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.086751   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.086885   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.086938   548 local_planner.cc:646] total plan time(msec): 66.53
+I20200713 09:37:50.120330   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.120398   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.120406   548 local_planner.cc:565] time interal: 0.100062
+I20200713 09:37:50.120460   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.187201   548 local_planner.cc:611] paths time(msec): 66.606
+I20200713 09:37:50.187278   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.187557   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.187716   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.187769   548 local_planner.cc:646] total plan time(msec): 67.267
+I20200713 09:37:50.220216   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.220278   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.220288   548 local_planner.cc:565] time interal: 0.0998788
+I20200713 09:37:50.220332   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.288466   548 local_planner.cc:611] paths time(msec): 68.017
+I20200713 09:37:50.288542   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.288712   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.288856   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.288906   548 local_planner.cc:646] total plan time(msec): 68.563
+I20200713 09:37:50.320261   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.320320   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.320329   548 local_planner.cc:565] time interal: 0.100044
+I20200713 09:37:50.320374   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.387970   548 local_planner.cc:611] paths time(msec): 67.452
+I20200713 09:37:50.388083   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.388255   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.388411   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.388463   548 local_planner.cc:646] total plan time(msec): 68.05
+I20200713 09:37:50.420255   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.420315   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.420323   548 local_planner.cc:565] time interal: 0.099994
+I20200713 09:37:50.420372   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.487059   548 local_planner.cc:611] paths time(msec): 66.573
+I20200713 09:37:50.487141   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.487541   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.487695   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.487748   548 local_planner.cc:646] total plan time(msec): 67.365
+I20200713 09:37:50.520259   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.520326   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.520336   548 local_planner.cc:565] time interal: 0.100011
+I20200713 09:37:50.520383   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.586472   548 local_planner.cc:611] paths time(msec): 66.009
+I20200713 09:37:50.586552   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.586732   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.586881   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.586935   548 local_planner.cc:646] total plan time(msec): 66.54
+I20200713 09:37:50.620290   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.620352   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.620360   548 local_planner.cc:565] time interal: 0.100026
+I20200713 09:37:50.620409   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.686069   548 local_planner.cc:611] paths time(msec): 65.589
+I20200713 09:37:50.686152   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.686328   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.686477   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.686529   548 local_planner.cc:646] total plan time(msec): 66.11
+I20200713 09:37:50.720322   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.720391   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.720520   548 local_planner.cc:565] time interal: 0.100038
+I20200713 09:37:50.720571   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.789799   548 local_planner.cc:611] paths time(msec): 69.154
+I20200713 09:37:50.789878   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.790061   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.790197   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.790249   548 local_planner.cc:646] total plan time(msec): 69.64
+I20200713 09:37:50.820411   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.820466   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.820475   548 local_planner.cc:565] time interal: 0.100076
+I20200713 09:37:50.820523   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.887845   548 local_planner.cc:611] paths time(msec): 67.166
+I20200713 09:37:50.887939   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.888180   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.888327   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.888381   548 local_planner.cc:646] total plan time(msec): 67.819
+I20200713 09:37:50.920326   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:50.920384   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:50.920394   548 local_planner.cc:565] time interal: 0.0999186
+I20200713 09:37:50.920441   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:50.987866   548 local_planner.cc:611] paths time(msec): 67.32
+I20200713 09:37:50.987952   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:50.988162   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:50.988302   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:50.988355   548 local_planner.cc:646] total plan time(msec): 67.902
+I20200713 09:37:51.020260   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:51.020320   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:51.020329   548 local_planner.cc:565] time interal: 0.0999357
+I20200713 09:37:51.020376   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:51.088167   548 local_planner.cc:611] paths time(msec): 67.675
+I20200713 09:37:51.088248   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:51.088431   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:51.088573   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:51.088629   548 local_planner.cc:646] total plan time(msec): 68.242
+I20200713 09:37:51.120271   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:51.120329   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:51.120338   548 local_planner.cc:565] time interal: 0.100009
+I20200713 09:37:51.120384   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:51.193223   548 local_planner.cc:611] paths time(msec): 72.696
+I20200713 09:37:51.193301   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:51.193497   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:51.193636   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:51.193696   548 local_planner.cc:646] total plan time(msec): 73.269
+I20200713 09:37:51.220229   548 local_planner.cc:550] current behaviour:(0:INIT): 1
+I20200713 09:37:51.220289   548 local_planner.cc:561] ------------path generation start------------
+I20200713 09:37:51.220299   548 local_planner.cc:565] time interal: 0.0999599
+I20200713 09:37:51.220345   548 local_planner.cc:604] nums of goal state set: 7
+I20200713 09:37:51.289340   548 local_planner.cc:611] paths time(msec): 68.873
+I20200713 09:37:51.289419   548 local_planner.cc:612] paths num: 7
+I20200713 09:37:51.289708   548 local_planner.cc:635]          velocity profile start          
+I20200713 09:37:51.289858   548 local_planner.cc:503] last point velocity:1
+I20200713 09:37:51.289917   548 local_planner.cc:646] total plan time(msec): 69.561
+I20200713 09:37:51.320246   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:51.419602   548 local_planner.cc:537] current message not receiver
+I20200713 09:37:51.519340   548 local_planner.cc:537] current message not receiver

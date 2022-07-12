@@ -1,0 +1,10 @@
+<!-- -->
+<launch>
+
+	<arg name="lane_width" default="2.5" />
+
+	<arg name="flags" default=" "/>
+	<node pkg="conformal_lattice_planner" type="local_planner" name="local_planner" args="$(arg flags)" output="screen">
+   		<param name="lane_width" value="$(arg lane_width)" />
+	</node>
+</launch>
